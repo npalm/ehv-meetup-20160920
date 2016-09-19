@@ -4,3 +4,6 @@
 [submodule "ehv-meetup-ci"]
 	path = ehv-meetup-ci
 	url = https://github.com/npalm/ehv-meetup-ci.git
+[submodule "ehv-meetup-src-20160920"]
+	path = ehv-meetup-src-20160920
+	url = https://github.com/npalm/ehv-meetup-src-20160920.git
